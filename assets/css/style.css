@@ -159,7 +159,7 @@ font-family: calibri;
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5fcf80;
+  border: 6px solid #F12D2D;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -593,7 +593,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #9ae1af;
+  background: #5C60D2;
   margin: 4px 10px;
 }
 
@@ -610,7 +610,7 @@ section {
 .breadcrumbs {
   margin-top: 73px;
   text-align: center;
-  background: #5fcf80;
+  background: #5C60D2;
   padding: 30px 0;
   color: #fff;
 }
@@ -651,11 +651,11 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #5fcf80;
+  color: #5C60D2;
 }
 
 .about .content .learn-more-btn {
-  background: #5fcf80;
+  background: #5C60D2;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
@@ -666,7 +666,7 @@ section {
 }
 
 .about .content .learn-more-btn:hover {
-  background: #3ac162;
+  background: #5C60D2;
   color: #fff;
 }
 
@@ -687,7 +687,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #5fcf80;
+  color: #5C60D2;
   font-weight: 700;
 }
 
@@ -705,7 +705,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #5fcf80;
+  background: #5C60D2;
   border-radius: 4px;
   color: #fff;
 }
@@ -734,7 +734,7 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: #5fcf80;
+  color: #5C60D2;
   background: #fff;
 }
 
@@ -801,7 +801,7 @@ section {
 }
 
 .features .icon-box:hover {
-  border-color: #5fcf80;
+  border-color: #5C60D2
 }
 
 .features .icon-box:hover h3 a {
@@ -1527,7 +1527,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #5fcf80;
+  color: #5C60D2;
   font-size: 18px;
   line-height: 1;
 }
@@ -1551,7 +1551,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #5fcf80;
+  color: #5C60D2;
 }
 
 #footer .footer-newsletter {
@@ -1591,7 +1591,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #5fcf80;
+  background: #5C60D2;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1599,7 +1599,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #3ac162;
+  background: #5C60D2;
 }
 
 #footer .credits {
@@ -1608,18 +1608,18 @@ section {
 }
 
 #footer .credits a {
-  color: #3ac162;
+  color: #5C60D2;
   transition: 0.3s;
 }
 
 #footer .credits a:hover {
-  color: #5fcf80;
+  color: #5C60D2;
 }
 
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5fcf80;
+  background: #5C60D2;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1632,7 +1632,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #3ac162;
+  background: #5C60D2;
   color: #fff;
   text-decoration: none;
 }
